@@ -3,7 +3,7 @@
 I just hated my original schoology design, and while it was redesigned some time this year, I still wasn't a fan
 So I made this!
 
-## How do i use it?
+## How Do I Use It?
 
 I would reccomend the extension Magic CSS.
 https://github.com/webextensions/live-css-editor
