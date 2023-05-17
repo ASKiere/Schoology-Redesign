@@ -1,3 +1,8 @@
+## NOTES
+
+THIS CODE USES YOUR BROWSER'S DEFAULT FONT. I USE THE FONT "iosevka".
+IF YOU WANT TO USE MY FONT, YOU CAN DOWNLOAD IT HERE: https://typeof.net/Iosevka/
+
 ## Why I Did This
 
 I just hated my original schoology design, and while it was redesigned some time this year, I still wasn't a fan
