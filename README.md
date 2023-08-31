@@ -9,7 +9,7 @@ I wasn't a huge fan of the og design
 
 ## How Do I Use It?
 
-I would reccomend the extension Magic CSS.
+I would recommend the extension Magic CSS.
 https://github.com/webextensions/live-css-editor
 It is on all common extension stores.
 Paste the code from this repo to your Magic CSS and pin it.
